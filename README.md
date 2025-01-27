@@ -1,3 +1,21 @@
+
+this is the preview
+![image](https://github.com/user-attachments/assets/158cd85e-fa7d-433d-9217-a9847717d460)
+![image](https://github.com/user-attachments/assets/49ff0395-0fe4-45a0-b3ac-7c0eda608e38)
+![image](https://github.com/user-attachments/assets/72adb57e-a534-4667-a282-8c596996d007)
+![image](https://github.com/user-attachments/assets/6b16738f-1017-4926-8f76-c176724d1878)
+![image](https://github.com/user-attachments/assets/560286d4-3a1c-4637-a397-d7b2e093bbd0)
+![image](https://github.com/user-attachments/assets/a180339a-27d0-4045-b3e3-33a2c827b291)
+![image](https://github.com/user-attachments/assets/2d5ccf92-fc7c-4eaa-8d96-a9ba7b9ba5e0)
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
